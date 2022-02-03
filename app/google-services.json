@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208019523456",
+    "project_id": "illuminati-store",
+    "storage_bucket": "illuminati-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208019523456:android:4cf9cbfa2c2b6ded22a365",
+        "android_client_info": {
+          "package_name": "com.example.illuminati_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208019523456-0l1tql2vros3j06dkfrirbst923o2hvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnw9gDMERvf0EnnxiyDWzRQsjCkFund5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208019523456-0l1tql2vros3j06dkfrirbst923o2hvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
