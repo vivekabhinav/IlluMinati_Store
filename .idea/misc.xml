@@ -3,9 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Prasanth/AndroidStudioProjects/IlluMinati_Store/app/src/main/res/drawable/button_background.xml" value="0.1" />
-        <entry key="..\:/Users/Prasanth/AndroidStudioProjects/IlluMinati_Store/app/src/main/res/layout/activity_login.xml" value="0.14130434782608695" />
         <entry key="..\:/Users/Prasanth/AndroidStudioProjects/IlluMinati_Store/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Prasanth/AndroidStudioProjects/IlluMinati_Store/app/src/main/res/layout/dialog_progress.xml" value="0.14130434782608695" />
       </map>
     </option>
   </component>

@@ -1,7 +1,8 @@
-package com.example.illuminati_store
+package com.example.illuminati_store.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.illuminati_store.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
