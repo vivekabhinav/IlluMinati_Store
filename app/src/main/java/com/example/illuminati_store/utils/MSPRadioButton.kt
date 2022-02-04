@@ -1,12 +1,13 @@
-package com.example.illuminati_store
+package com.example.illuminati_store.utils
 
 import android.content.Context
 import android.graphics.Typeface
 import android.util.AttributeSet
-import androidx.appcompat.widget.AppCompatTextView
+import androidx.appcompat.widget.AppCompatRadioButton
 
+class MSPRadioButton(context: Context, attrs: AttributeSet) :
+    AppCompatRadioButton(context, attrs) {
 
-class MSPTextViewBold(context: Context, attrs: AttributeSet) : AppCompatTextView(context, attrs) {
 
     init {
         // Call the function to apply the font to the components.
