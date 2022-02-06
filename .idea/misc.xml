@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Prasanth/AndroidStudioProjects/IlluMinati_Store/app/src/main/res/drawable/ic_vector_add_product.xml" value="0.1" />
+        <entry key="..\:/Users/Prasanth/AndroidStudioProjects/IlluMinati_Store/app/src/main/res/layout/activity_add_product.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Prasanth/AndroidStudioProjects/IlluMinati_Store/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Users/Prasanth/AndroidStudioProjects/IlluMinati_Store/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Prasanth/AndroidStudioProjects/IlluMinati_Store/app/src/main/res/layout/dialog_progress.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Prasanth/AndroidStudioProjects/IlluMinati_Store/app/src/main/res/menu/add_product_menu.xml" value="0.1648" />
+        <entry key="..\:/Users/Prasanth/AndroidStudioProjects/IlluMinati_Store/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/Prasanth/AndroidStudioProjects/IlluMinati_Store/app/src/main/res/menu/dashboard_menu.xml" value="0.1796875" />
       </map>
     </option>
   </component>
